@@ -1,0 +1,15 @@
+C:\Users\piotr\source\repos\JsonExample\JsonExample\bin\Debug\net6.0\JsonExample.exe
+C:\Users\piotr\source\repos\JsonExample\JsonExample\bin\Debug\net6.0\JsonExample.deps.json
+C:\Users\piotr\source\repos\JsonExample\JsonExample\bin\Debug\net6.0\JsonExample.runtimeconfig.json
+C:\Users\piotr\source\repos\JsonExample\JsonExample\bin\Debug\net6.0\JsonExample.dll
+C:\Users\piotr\source\repos\JsonExample\JsonExample\bin\Debug\net6.0\ref\JsonExample.dll
+C:\Users\piotr\source\repos\JsonExample\JsonExample\bin\Debug\net6.0\JsonExample.pdb
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\JsonExample.csproj.AssemblyReference.cache
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\JsonExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\JsonExample.AssemblyInfoInputs.cache
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\JsonExample.AssemblyInfo.cs
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\JsonExample.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\JsonExample.dll
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\ref\JsonExample.dll
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\JsonExample.pdb
+C:\Users\piotr\source\repos\JsonExample\JsonExample\obj\Debug\net6.0\JsonExample.genruntimeconfig.cache

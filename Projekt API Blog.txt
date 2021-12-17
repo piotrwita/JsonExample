@@ -1,0 +1,13 @@
+GET /api/Post
+GET /api/Post/Search/{title}
+POST /api/Post
+PUT /api/Post/{id}
+DELETE /api/Post/{id}
+
+[
+  {
+    "id": 1,
+    "title": "Tytuł",
+	"content": "Treść"
+  }
+]
